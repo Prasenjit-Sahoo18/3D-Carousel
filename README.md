@@ -5,7 +5,7 @@ A beautiful and interactive 3D carousel gallery built with Next.js, featuring im
 ## Live Demo
 - Vercel Deployment: [https://3dcarousell.vercel.app/](https://3dcarousell.vercel.app/)
 - GitHub Pages: [https://Prasenjit-Sahoo18.github.io/3D-Carousel/](https://Prasenjit-Sahoo18.github.io/3D-Carousel/)
-- Local Development: [http://localhost:3000](http://localhost:3000)
+
 
 ## Features
 
