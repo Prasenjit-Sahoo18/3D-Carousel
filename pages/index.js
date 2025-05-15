@@ -3,7 +3,7 @@
 import { useEffect } from 'react';
 import Head from 'next/head';
 import Music from '@/components/Music';
-import styles from '@/styles/Carousel.module.css';
+import styles from './Carousel.module.css';
 
 export default function Home() {
   useEffect(() => {
