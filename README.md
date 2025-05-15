@@ -2,6 +2,11 @@
 
 A beautiful and interactive 3D carousel gallery built with Next.js, featuring image and video support with an integrated music player.
 
+## Live Demo
+- Vercel Deployment: [https://3dcarousell.vercel.app/](https://3dcarousell.vercel.app/)
+- GitHub Pages: [https://Prasenjit-Sahoo18.github.io/3D-Carousel/](https://Prasenjit-Sahoo18.github.io/3D-Carousel/)
+- Local Development: [http://localhost:3000](http://localhost:3000)
+
 ## Features
 
 - 🎠 Smooth 3D carousel animation
@@ -22,8 +27,8 @@ A beautiful and interactive 3D carousel gallery built with Next.js, featuring im
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd carousel-app
+git clone https://github.com/Prasenjit-Sahoo18/3D-Carousel.git
+cd 3D-Carousel
 ```
 
 2. Install dependencies:
